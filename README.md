@@ -23,7 +23,7 @@
 
 ### Language/Framework/Library
 <p>Level3↑</p>
-<img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=html,css,js,ts,php,cs,java,py,haskell,react" />
+<img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=html,css,js,ts,php,cs,java,py,haskell,react,nextjs" />
 
 ### Database
 <img alt="my skills" src="https://skillicons.dev/icons?thema=light&i=postgres" />
